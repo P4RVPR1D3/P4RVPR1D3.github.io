@@ -8,7 +8,7 @@ author:
   url: "https://p4rvpr1d3.github.io"
 
 # Build settings
-baseurl: "https://p4rvpr1d3.github.io" # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
@@ -20,7 +20,7 @@ paginate_path: /page:num/
 defaults:
   -
     scope:
-      path: "/"
+      path: ""
       type: "posts"
     values:
       layout: "post"
