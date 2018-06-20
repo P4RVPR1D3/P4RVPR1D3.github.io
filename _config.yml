@@ -1,14 +1,15 @@
 # Site settings
 title: The Art of Cloud
 description: "Cloud | DevOps"
+baseurl: "/"
 url: "https://p4rvpr1d3.github.io"
 author:
   name: "Parv Gupta"
   # email: "hello@jacoporabolini.com"
-  url: "https://p4rvpr1d3.github.io/"
+  # url: "https://p4rvpr1d3.github.io/"
 
 # Build settings
-baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
+ # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
