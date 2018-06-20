@@ -2,7 +2,7 @@
 title: The Art of Cloud
 description: "Cloud | DevOps"
 baseurl: "/"
-about: "Test"
+abouturl: "/about"
 url: "https://p4rvpr1d3.github.io"
 author:
   name: "Parv Gupta"
